@@ -1,13 +1,12 @@
 {
   "name": "com.gameframex.unity.json.simplejson",
   "displayName": "SimpleJSON",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "unity": "2017.1",
   "description": "适用于Unity的改进型Json库",
   "author": {
     "name": "Bunny83"
   },
   "relatedPackages": {},
-  "dependencies": {
-  }
+  "dependencies": {}
 }
