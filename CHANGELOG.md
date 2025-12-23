@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/gameframex/com.gameframex.unity.json.simplejson/compare/1.0.2...1.1.0) (2025-12-23)
+
+
+### Features
+
+* **ci:** change ci ([4e0528f](https://github.com/gameframex/com.gameframex.unity.json.simplejson/commit/4e0528f01fd6f6e117204045155dea6eb31bae17))
+
 # Changelog
 
 ## [1.0.2](https://github.com/GameFrameX/com.gameframex.unity.json.simplejson/tree/1.0.2) (2025-06-01)
