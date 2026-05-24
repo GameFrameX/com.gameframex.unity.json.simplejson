@@ -2,7 +2,7 @@
   "name": "com.gameframex.unity.json.simplejson",
   "displayName": "SimpleJSON",
   "version": "1.1.0",
-  "unity": "2017.1",
+  "unity": "2019.4",
   "description": "适用于Unity的改进型Json库",
   "author": {
     "name": "Blank",

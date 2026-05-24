@@ -1,18 +1,53 @@
-# 基于`SimpleJSON` 的二次修改
+<div align="center">
+  <img src="https://download.alianblank.com/gameframex/gameframex_logo_320.png" alt="Game Frame X Logo" width="160" />
+</div>
 
-该库主要服务于 `https://github.com/AlianBlank/GameFrameX` 作为子库使用。
+# SimpleJSON
 
+[![GitHub release](https://img.shields.io/github/v/release/GameFrameX/com.gameframex.unity.json.simplejson?style=flat-square)](https://github.com/GameFrameX/com.gameframex.unity.json.simplejson/releases)
+[![License](https://img.shields.io/github/license/GameFrameX/com.gameframex.unity.json.simplejson?style=flat-square)](https://github.com/GameFrameX/com.gameframex.unity.json.simplejson/blob/main/LICENSE)
+[![Documentation](https://img.shields.io/badge/Documentation-Online-blue?style=flat-square)](https://gameframex.doc.alianblank.com)
 
-# 使用方式(三种方式)
-1. 直接在 `manifest.json` 文件中添加以下内容
+**All-in-One Solution for Indie Game Development · Empowering Indie Developers' Dreams**
+
+[Documentation](https://gameframex.doc.alianblank.com) · [Quick Start](#quick-start) · [QQ Group](https://qm.qq.com/q/5s5e1e6e6e)
+
+**Language**: **English** | [简体中文](README.zh-CN.md) | [繁體中文](README.zh-TW.md) | [日本語](README.ja.md) | [한국어](README.ko.md)
+
+---
+
+## Project Overview
+
+A modified version of SimpleJSON, primarily serving as a sub-library for GameFrameX. This library provides an improved JSON library for Unity.
+
+### Modifications
+
+1. Added `link.xml` for strip filtering
+2. Added `SimpleJSONCroppingHelper` anti-strip script
+
+## Quick Start
+
+### Installation
+
+Choose one of the following methods:
+
+1. Add the following to the `dependencies` section in your project's `manifest.json`:
    ```json
-      {"com.gameframex.unity.json.simplejson": "https://github.com/AlianBlank/com.gameframex.unity.json.simplejson.git"}
-    ```
-2. 在Unity 的`Packages Manager` 中使用`Git URL` 的方式添加库,地址为：https://github.com/AlianBlank/com.gameframex.unity.json.simplejson.git
+   {"com.gameframex.unity.json.simplejson": "https://github.com/AlianBlank/com.gameframex.unity.json.simplejson.git"}
+   ```
 
-3. 直接下载仓库放置到Unity 项目的`Packages` 目录下。会自动加载识别
+2. Use `Git URL` in Unity's Package Manager:
+   ```
+   https://github.com/AlianBlank/com.gameframex.unity.json.simplejson.git
+   ```
 
-# 改动功能
+3. Download the repository and place it in your Unity project's `Packages` directory. It will be loaded automatically.
 
-1. 增加 `link.xml` 的裁剪过滤
-2. 增加 `SimpleJSONCroppingHelper` 防裁剪脚本
+## Documentation & Resources
+
+- Documentation: https://gameframex.doc.alianblank.com
+- Repository: https://github.com/GameFrameX/com.gameframex.unity.json.simplejson
+
+## License
+
+This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
