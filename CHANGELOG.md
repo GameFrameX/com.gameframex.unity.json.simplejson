@@ -1,3 +1,10 @@
+## [1.1.1](https://github.com/gameframex/com.gameframex.unity.json.simplejson/compare/1.1.0...1.1.1) (2026-05-28)
+
+
+### Bug Fixes
+
+* **ci:** 统一 .github 工作流配置 ([4b0230d](https://github.com/gameframex/com.gameframex.unity.json.simplejson/commit/4b0230d5e71e59dc2aefc8eb7b4df88d708c02bd))
+
 # [1.1.0](https://github.com/gameframex/com.gameframex.unity.json.simplejson/compare/1.0.2...1.1.0) (2025-12-23)
 
 
