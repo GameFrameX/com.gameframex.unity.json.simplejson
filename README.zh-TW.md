@@ -34,19 +34,34 @@
 
 ### 安裝
 
-任選以下方式之一：
+編輯 Unity 專案的 `Packages/manifest.json`，添加 `scopedRegistries` 部分：
 
-1. 直接在 `manifest.json` 的文件中的 `dependencies` 節點下添加以下內容：
-   ```json
-   {"com.gameframex.unity.json.simplejson": "https://github.com/AlianBlank/com.gameframex.unity.json.simplejson.git"}
-   ```
+```json
+{
+  "scopedRegistries": [
+    {
+      "name": "GameFrameX",
+      "url": "https://gameframex.upm.alianblank.uk",
+      "scopes": [
+        "com.gameframex"
+      ]
+    }
+  ]
+}
+```
 
-2. 在 Unity 的 `Packages Manager` 中使用 `Git URL` 的方式添加庫，地址為：
-   ```
-   https://github.com/AlianBlank/com.gameframex.unity.json.simplejson.git
-   ```
+`scopes` 控制哪些套件透過此註冊表解析。只有以 `com.gameframex` 開頭的套件才會從這個註冊表取得。
 
-3. 直接下載倉庫放置到 Unity 項目的 `Packages` 目錄下，會自動加載識別。
+Then add the package to `dependencies`:
+
+```json
+{
+  "dependencies": {
+    "com.gameframex.unity.json.simplejson": "1.1.1"
+  }
+}
+```
+
 
 ## 文檔與資源
 
