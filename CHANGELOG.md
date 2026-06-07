@@ -1,3 +1,10 @@
+## [1.1.2](https://github.com/gameframex/com.gameframex.unity.json.simplejson/compare/1.1.1...1.1.2) (2026-06-07)
+
+
+### Bug Fixes
+
+* 补全包规范文件（LICENSE/CHANGELOG/URL 字段/unity 字段） ([8499d6b](https://github.com/gameframex/com.gameframex.unity.json.simplejson/commit/8499d6b35a3ee77a4364e5ced002c836f226649a))
+
 ## [1.1.1](https://github.com/gameframex/com.gameframex.unity.json.simplejson/compare/1.1.0...1.1.1) (2026-05-28)
 
 
