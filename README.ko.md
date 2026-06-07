@@ -4,21 +4,21 @@
 
 # SimpleJSON
 
-[![GitHub release](https://img.shields.io/github/v/release/GameFrameX/com.gameframex.unity.json.simplejson?style=flat-square)](https://github.com/GameFrameX/com.gameframex.unity.json.simplejson/releases)
-[![License](https://img.shields.io/github/license/GameFrameX/com.gameframex.unity.json.simplejson?style=flat-square)](https://github.com/GameFrameX/com.gameframex.unity.json.simplejson/blob/main/LICENSE)
-[![Documentation](https://img.shields.io/badge/Documentation-Online-blue?style=flat-square)](https://gameframex.doc.alianblank.com)
+[![License](https://img.shields.io/github/license/GameFrameX/com.gameframex.unity.json.simplejson)](https://github.com/GameFrameX/com.gameframex.unity.json.simplejson/blob/main/LICENSE.md)
+[![Version](https://img.shields.io/github/v/release/GameFrameX/com.gameframex.unity.json.simplejson)](https://github.com/GameFrameX/com.gameframex.unity.json.simplejson/releases)
+[![Documentation](https://img.shields.io/badge/Documentation-docs-blue)](https://gameframex.doc.alianblank.com)
 
-**인디 게임 개발자를 위한 올인원 솔루션 · 인디 개발자의 꿈을 실현**
+인디 게임 개발자를 위한 올인원 솔루션 · 인디 개발자의 꿈을 실현
+
+<br />
 
 [문서](https://gameframex.doc.alianblank.com) · [빠른 시작](#빠른-시작) · [QQ 그룹](https://qm.qq.com/q/5s5e1e6e6e)
 
-**언어**: [English](README.md) | [简体中文](README.zh-CN.md) | [繁體中文](README.zh-TW.md) | [日本語](README.ja.md) | **한국어**
+<br />
 
+[English](README.md) | [简体中文](README.zh-CN.md) | [繁體中文](README.zh-TW.md) | [日本語](README.ja.md) | **한국어**
 
 </div>
-
----
-
 ## 프로젝트 개요
 
 SimpleJSON을 기반으로 한 수정 버전으로, 주로 GameFrameX의 서브 라이브러리로 사용됩니다. 이 라이브러리는 Unity용으로 개선된 JSON 라이브러리를 제공합니다.

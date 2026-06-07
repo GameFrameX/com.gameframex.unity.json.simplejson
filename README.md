@@ -4,21 +4,21 @@
 
 # SimpleJSON
 
-[![GitHub release](https://img.shields.io/github/v/release/GameFrameX/com.gameframex.unity.json.simplejson?style=flat-square)](https://github.com/GameFrameX/com.gameframex.unity.json.simplejson/releases)
-[![License](https://img.shields.io/github/license/GameFrameX/com.gameframex.unity.json.simplejson?style=flat-square)](https://github.com/GameFrameX/com.gameframex.unity.json.simplejson/blob/main/LICENSE)
-[![Documentation](https://img.shields.io/badge/Documentation-Online-blue?style=flat-square)](https://gameframex.doc.alianblank.com)
+[![License](https://img.shields.io/github/license/GameFrameX/com.gameframex.unity.json.simplejson)](https://github.com/GameFrameX/com.gameframex.unity.json.simplejson/blob/main/LICENSE.md)
+[![Version](https://img.shields.io/github/v/release/GameFrameX/com.gameframex.unity.json.simplejson)](https://github.com/GameFrameX/com.gameframex.unity.json.simplejson/releases)
+[![Documentation](https://img.shields.io/badge/Documentation-docs-blue)](https://gameframex.doc.alianblank.com)
 
-**All-in-One Solution for Indie Game Development · Empowering Indie Developers' Dreams**
+All-in-One Solution for Indie Game Development · Empowering Indie Developers' Dreams
+
+<br />
 
 [Documentation](https://gameframex.doc.alianblank.com) · [Quick Start](#quick-start) · [QQ Group](https://qm.qq.com/q/5s5e1e6e6e)
 
-**Language**: **English** | [简体中文](README.zh-CN.md) | [繁體中文](README.zh-TW.md) | [日本語](README.ja.md) | [한국어](README.ko.md)
+<br />
 
+**English** | [简体中文](README.zh-CN.md) | [繁體中文](README.zh-TW.md) | [日本語](README.ja.md) | [한국어](README.ko.md)
 
 </div>
-
----
-
 ## Project Overview
 
 A modified version of SimpleJSON, primarily serving as a sub-library for GameFrameX. This library provides an improved JSON library for Unity.

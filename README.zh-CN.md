@@ -4,21 +4,21 @@
 
 # SimpleJSON
 
-[![GitHub release](https://img.shields.io/github/v/release/GameFrameX/com.gameframex.unity.json.simplejson?style=flat-square)](https://github.com/GameFrameX/com.gameframex.unity.json.simplejson/releases)
-[![License](https://img.shields.io/github/license/GameFrameX/com.gameframex.unity.json.simplejson?style=flat-square)](https://github.com/GameFrameX/com.gameframex.unity.json.simplejson/blob/main/LICENSE)
-[![Documentation](https://img.shields.io/badge/Documentation-Online-blue?style=flat-square)](https://gameframex.doc.alianblank.com)
+[![License](https://img.shields.io/github/license/GameFrameX/com.gameframex.unity.json.simplejson)](https://github.com/GameFrameX/com.gameframex.unity.json.simplejson/blob/main/LICENSE.md)
+[![Version](https://img.shields.io/github/v/release/GameFrameX/com.gameframex.unity.json.simplejson)](https://github.com/GameFrameX/com.gameframex.unity.json.simplejson/releases)
+[![Documentation](https://img.shields.io/badge/Documentation-docs-blue)](https://gameframex.doc.alianblank.com)
 
-**独立游戏前后端一体化解决方案 · 独立游戏开发者的圆梦大使**
+独立游戏前后端一体化解决方案 · 独立游戏开发者的圆梦大使
+
+<br />
 
 [文档](https://gameframex.doc.alianblank.com) · [快速开始](#快速开始) · [QQ群](https://qm.qq.com/q/5s5e1e6e6e)
 
-**语言**: [English](README.md) | **简体中文** | [繁體中文](README.zh-TW.md) | [日本語](README.ja.md) | [한국어](README.ko.md)
+<br />
 
+[English](README.md) | **简体中文** | [繁體中文](README.zh-TW.md) | [日本語](README.ja.md) | [한국어](README.ko.md)
 
 </div>
-
----
-
 ## 项目简介
 
 基于 SimpleJSON 的二次修改版本，主要服务于 GameFrameX 作为子库使用。该库提供了适用于 Unity 的改进型 JSON 库。
