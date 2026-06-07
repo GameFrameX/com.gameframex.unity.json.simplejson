@@ -67,6 +67,21 @@ Then add the package to `dependencies`:
 - Documentation: https://gameframex.doc.alianblank.com
 - Repository: https://github.com/GameFrameX/com.gameframex.unity.json.simplejson
 
+
+## Dependencies
+
+| Package | Description |
+|---------|-------------|
+| (无) | - |
+
+
+## Community & Support
+
+- QQ Group: 467608841 / 233840761
+
+## Changelog
+
+See [Releases](https://github.com/GameFrameX/gameframex/com.gameframex.unity.json.simplejson/releases) for changelog.
 ## License
 
 See [LICENSE.md](LICENSE.md) for license information.

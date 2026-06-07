@@ -68,6 +68,21 @@ Then add the package to `dependencies`:
 - 文档地址: https://gameframex.doc.alianblank.com
 - 仓库地址: https://github.com/GameFrameX/com.gameframex.unity.json.simplejson
 
+
+## 依赖
+
+| 包 | 说明 |
+|----|------|
+| (无) | - |
+
+
+## 社区与支持
+
+- QQ群: 467608841 / 233840761
+
+## 更新日志
+
+查看 [Releases](https://github.com/GameFrameX/gameframex/com.gameframex.unity.json.simplejson/releases) 了解更新日志。
 ## 开源协议
 
 本项目遵循 MIT 许可证。详细信息请查看 [LICENSE](LICENSE) 文件。

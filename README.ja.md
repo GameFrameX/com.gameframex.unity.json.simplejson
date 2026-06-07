@@ -67,6 +67,21 @@ Then add the package to `dependencies`:
 - ドキュメント: https://gameframex.doc.alianblank.com
 - リポジトリ: https://github.com/GameFrameX/com.gameframex.unity.json.simplejson
 
+
+## 依存関係
+
+| パッケージ | 説明 |
+|----------|------|
+| (无) | - |
+
+
+## コミュニティとサポート
+
+- QQグループ: 467608841 / 233840761
+
+## 変更履歴
+
+[Releases](https://github.com/GameFrameX/gameframex/com.gameframex.unity.json.simplejson/releases) で変更履歴を確認してください。
 ## ライセンス
 
 詳しくは [LICENSE.md](LICENSE.md) をご参照ください。
