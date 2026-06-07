@@ -62,7 +62,6 @@ Then add the package to `dependencies`:
 }
 ```
 
-
 ## ドキュメントとリソース
 
 - ドキュメント: https://gameframex.doc.alianblank.com
@@ -70,4 +69,4 @@ Then add the package to `dependencies`:
 
 ## ライセンス
 
-このプロジェクトは MIT ライセンスの下で公開されています。詳細は [LICENSE](LICENSE) ファイルを参照してください。
+詳しくは [LICENSE.md](LICENSE.md) をご参照ください。

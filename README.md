@@ -62,7 +62,6 @@ Then add the package to `dependencies`:
 }
 ```
 
-
 ## Documentation & Resources
 
 - Documentation: https://gameframex.doc.alianblank.com
@@ -70,4 +69,4 @@ Then add the package to `dependencies`:
 
 ## License
 
-This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
+See [LICENSE.md](LICENSE.md) for license information.
