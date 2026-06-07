@@ -24,5 +24,8 @@
     "name": "com.gameframex.unity.json.simplejson",
     "url": "git+https://github.com/gameframex/com.gameframex.unity.json.simplejson.git",
     "type": "git"
-  }
+  },
+  "documentationUrl": "https://gameframex.doc.alianblank.com",
+  "changelogUrl": "https://github.com/gameframex/com.gameframex.unity.json.simplejson/blob/main/CHANGELOG.md",
+  "licensesUrl": "https://github.com/gameframex/com.gameframex.unity.json.simplejson/blob/main/LICENSE.md"
 }
