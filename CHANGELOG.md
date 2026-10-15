@@ -1,3 +1,10 @@
+## [1.1.3](https://github.com/gameframex/com.gameframex.unity.json.simplejson/compare/1.1.2...1.1.3) (2026-10-15)
+
+
+### Bug Fixes
+
+* **runtime:** Preserve 特性改用全限定名防裁剪 ([c156168](https://github.com/gameframex/com.gameframex.unity.json.simplejson/commit/c1561687fc546a20d5d408c5db0904afeed21a6b))
+
 ## [1.1.2](https://github.com/gameframex/com.gameframex.unity.json.simplejson/compare/1.1.1...1.1.2) (2026-06-07)
 
 
