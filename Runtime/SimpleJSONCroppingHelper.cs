@@ -1,11 +1,10 @@
-﻿using UnityEngine.Scripting;
-
+﻿
 namespace SimpleJSON
 {
-    [Preserve]
+    [UnityEngine.Scripting.Preserve]
     public class SimpleJSONCroppingHelper : UnityEngine.MonoBehaviour
     {
-        [Preserve]
+        [UnityEngine.Scripting.Preserve]
         public void Start()
         {
             _ = typeof(SimpleJSON.JSON);
