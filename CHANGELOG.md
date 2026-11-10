@@ -1,3 +1,10 @@
+## [1.1.4](https://github.com/gameframex/com.gameframex.unity.json.simplejson/compare/1.1.3...1.1.4) (2026-11-10)
+
+
+### Bug Fixes
+
+* **json.simplejson:** 添加完整 link.xml 防代码裁剪保护 ([41fd3de](https://github.com/gameframex/com.gameframex.unity.json.simplejson/commit/41fd3de49d26185e4b5a7f46115d538835af8a07))
+
 ## [1.1.3](https://github.com/gameframex/com.gameframex.unity.json.simplejson/compare/1.1.2...1.1.3) (2026-10-15)
 
 
